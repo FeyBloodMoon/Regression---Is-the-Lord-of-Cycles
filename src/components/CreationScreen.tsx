@@ -35,7 +35,7 @@ export default function CreationScreen({
       {/* фон */}
       <div
         className="pointer-events-none fixed inset-0 bg-cover bg-center"
-        style={{ backgroundImage: 'url(/images/regress-bg.jpg)' }}
+        style={{ backgroundImage: 'url(./images/regress-bg.jpg)' }}
       />
       <div className="pointer-events-none fixed inset-0 bg-gradient-to-b from-[#05070b]/70 via-[#05070b]/82 to-[#05070b]" />
 
